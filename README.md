@@ -1,6 +1,6 @@
-# 1-Project One 
+# 1-Case Study Analysing Job Market Data
 https://github.com/BaderDev22/case_study-analyzing-job-market-data
-# 2-Project Two
+# 2-Toman Bike Shop Analysis
 https://github.com/BaderDev22/Bike-Project
-# 3-Project Three
+# 3-Austin Housing Market Insights
 https://github.com/BaderDev22/Austin-Housing-Market-Insights/tree/main
